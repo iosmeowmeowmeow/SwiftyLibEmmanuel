@@ -9,6 +9,8 @@
 
 public final class SwiftyLib {
 
+    public init() {}
+
     let name = "SwiftyLib"
     
     public func add(a: Int, b: Int) -> Int {
